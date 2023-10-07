@@ -1,6 +1,6 @@
 # Resume Builder App using React JS
 
-**Deployed Link** : https://resumebuilderbykoushalm24.netlify.app/
+[Deployed Link](https://resumebuilderbykoushalm24.netlify.app/)
 
 ## About
 This GitHub repository hosts a Resume Builder web application developed using React JS. The purpose of this application is to simplify the process of creating professional resumes. With this app, users can easily select a template, fill in their details, and generate a well-structured resume.
