@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/koushalm24/resume-builder)
+
 # Resume Builder App using React JS
 
 [Deployed Link](https://resumebuilderbykoushalm24.netlify.app/)
