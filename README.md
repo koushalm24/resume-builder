@@ -1,4 +1,4 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/293426e3-638b-4908-9516-fc5b17f7474a/deploy-status)](https://app.netlify.com/sites/resumebuilderbykoushalm24/deploys)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/koushalm24/resume-builder)
 
